@@ -759,18 +759,30 @@
     },
     "done": true
   },
+  "mowziesmobs:kill_foliaath": {
+    "criteria": {
+      "foliaath": "2025-09-10 20:07:46 +0200"
+    },
+    "done": true
+  },
+  "tombstone:adventure/funeral_theft": {
+    "criteria": {
+      "coded_trigger": "2025-09-10 20:08:30 +0200"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_familiar_receptacle": {
+    "criteria": {
+      "has_receptacle_of_familiar": "2025-09-10 20:08:33 +0200"
+    },
+    "done": true
+  },
   "croptopia:gather_all": {
     "criteria": {
       "soybean_seed": "2025-09-10 20:17:46 +0200",
       "broccoli_seed": "2025-09-10 20:17:46 +0200"
     },
     "done": false
-  },
-  "tombstone:adventure/use_knowledge": {
-    "criteria": {
-      "coded_trigger": "2025-09-10 20:32:39 +0200"
-    },
-    "done": true
   },
   "croptopia:gather_plains": {
     "criteria": {
@@ -779,27 +791,27 @@
     },
     "done": false
   },
-  "tombstone:adventure/create_familiar_receptacle": {
-    "criteria": {
-      "has_receptacle_of_familiar": "2025-09-10 20:08:33 +0200"
-    },
-    "done": true
-  },
-  "mowziesmobs:kill_foliaath": {
-    "criteria": {
-      "foliaath": "2025-09-10 20:07:46 +0200"
-    },
-    "done": true
-  },
   "tombstone:adventure/create_magic_tablet": {
     "criteria": {
       "has_magic_tablet": "2025-09-10 20:23:59 +0200"
     },
     "done": true
   },
-  "tombstone:adventure/funeral_theft": {
+  "tombstone:adventure/use_knowledge": {
     "criteria": {
-      "coded_trigger": "2025-09-10 20:08:30 +0200"
+      "coded_trigger": "2025-09-10 20:32:39 +0200"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_crying_obsidian": {
+    "criteria": {
+      "crying_obsidian": "2025-09-11 23:03:39 +0200"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/make_scroll_forge": {
+    "criteria": {
+      "scroll_forge": "2025-09-11 23:06:07 +0200"
     },
     "done": true
   },
