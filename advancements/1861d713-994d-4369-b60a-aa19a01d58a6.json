@@ -1,0 +1,774 @@
+{
+  "mowziesmobs:root": {
+    "criteria": {
+      "custom_test_name": "2025-08-23 23:45:56 +0200"
+    },
+    "done": true
+  },
+  "alexsmobsinteraction:root": {
+    "criteria": {
+      "tick": "2025-08-23 23:45:56 +0200"
+    },
+    "done": true
+  },
+  "irons_spellbooks:grant_patchouli": {
+    "criteria": {
+      "tick": "2025-08-23 23:45:56 +0200"
+    },
+    "done": true
+  },
+  "aoa3:completionist/by_the_books": {
+    "criteria": {
+      "legitimate": "2025-08-23 23:45:56 +0200"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:snowy_slopes": "2025-08-31 19:45:57 +0200",
+      "minecraft:old_growth_pine_taiga": "2025-09-10 18:26:34 +0200",
+      "minecraft:taiga": "2025-08-31 18:55:30 +0200",
+      "minecraft:deep_ocean": "2025-09-03 16:26:05 +0200",
+      "minecraft:frozen_river": "2025-09-10 18:34:46 +0200",
+      "minecraft:cherry_grove": "2025-08-31 18:00:14 +0200",
+      "minecraft:sunflower_plains": "2025-08-31 17:56:10 +0200",
+      "minecraft:birch_forest": "2025-08-24 17:44:55 +0200",
+      "minecraft:windswept_hills": "2025-09-03 18:28:27 +0200",
+      "minecraft:bamboo_jungle": "2025-08-24 18:20:59 +0200",
+      "minecraft:savanna_plateau": "2025-08-31 21:28:15 +0200",
+      "minecraft:beach": "2025-08-31 16:33:14 +0200",
+      "minecraft:dark_forest": "2025-08-24 17:49:12 +0200",
+      "minecraft:stony_peaks": "2025-09-03 17:10:17 +0200",
+      "minecraft:mangrove_swamp": "2025-09-03 16:54:04 +0200",
+      "minecraft:sparse_jungle": "2025-08-24 00:12:50 +0200",
+      "minecraft:river": "2025-08-24 00:03:29 +0200",
+      "minecraft:snowy_plains": "2025-08-31 18:54:13 +0200",
+      "minecraft:stony_shore": "2025-08-31 18:16:10 +0200",
+      "minecraft:dripstone_caves": "2025-08-24 16:10:23 +0200",
+      "minecraft:snowy_taiga": "2025-08-31 18:53:51 +0200",
+      "minecraft:grove": "2025-08-31 18:42:20 +0200",
+      "minecraft:swamp": "2025-09-03 16:56:11 +0200",
+      "minecraft:jagged_peaks": "2025-08-31 18:54:32 +0200",
+      "minecraft:cold_ocean": "2025-08-31 18:31:23 +0200",
+      "minecraft:forest": "2025-08-23 23:45:58 +0200",
+      "minecraft:lush_caves": "2025-08-31 16:35:54 +0200",
+      "minecraft:windswept_forest": "2025-09-03 18:12:41 +0200",
+      "minecraft:jungle": "2025-08-24 00:32:21 +0200",
+      "minecraft:ocean": "2025-08-31 17:39:15 +0200",
+      "minecraft:old_growth_spruce_taiga": "2025-09-10 18:21:13 +0200",
+      "minecraft:windswept_savanna": "2025-09-03 18:13:02 +0200",
+      "minecraft:deep_lukewarm_ocean": "2025-09-10 19:23:25 +0200",
+      "minecraft:flower_forest": "2025-08-31 17:04:55 +0200",
+      "minecraft:frozen_peaks": "2025-08-31 19:48:02 +0200",
+      "minecraft:old_growth_birch_forest": "2025-08-24 18:01:29 +0200",
+      "minecraft:meadow": "2025-08-31 18:39:04 +0200",
+      "minecraft:windswept_gravelly_hills": "2025-09-10 18:36:17 +0200",
+      "minecraft:savanna": "2025-08-24 00:01:09 +0200",
+      "minecraft:plains": "2025-08-23 23:52:12 +0200"
+    },
+    "done": false
+  },
+  "alexsmobs:alexsmobs/root": {
+    "criteria": {
+      "useitem": "2025-08-23 23:50:44 +0200"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-08-23 23:50:44 +0200"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2025-08-23 23:51:22 +0200"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2025-08-23 23:53:55 +0200"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2025-08-23 23:54:58 +0200"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2025-08-23 23:55:01 +0200"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-08-23 23:55:32 +0200"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/staff_root": {
+    "criteria": {
+      "requirement": "2025-08-23 23:58:52 +0200"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/spell_book_equip": {
+    "criteria": {
+      "requirement": "2025-08-23 23:59:01 +0200"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "cooked_mutton": "2025-08-24 19:58:38 +0200",
+      "cooked_beef": "2025-08-24 00:20:14 +0200",
+      "baked_potato": "2025-08-25 21:05:57 +0200",
+      "porkchop": "2025-08-24 16:27:38 +0200",
+      "potato": "2025-08-24 19:40:50 +0200",
+      "pumpkin_pie": "2025-09-01 16:28:03 +0200",
+      "bread": "2025-08-24 16:11:57 +0200",
+      "melon_slice": "2025-08-23 23:59:26 +0200",
+      "carrot": "2025-08-24 19:24:42 +0200"
+    },
+    "done": false
+  },
+  "aoa3:completionist/my_first_level": {
+    "criteria": {
+      "level_2": "2025-08-24 00:02:24 +0200"
+    },
+    "done": true
+  },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2025-08-24 00:17:55 +0200"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2025-08-24 00:33:35 +0200"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:pillager": "2025-08-24 16:57:17 +0200",
+      "minecraft:blaze": "2025-09-02 18:42:47 +0200",
+      "minecraft:skeleton": "2025-08-24 17:04:27 +0200",
+      "minecraft:elder_guardian": "2025-09-10 19:30:40 +0200",
+      "minecraft:ravager": "2025-08-31 17:07:20 +0200",
+      "minecraft:guardian": "2025-09-10 19:26:42 +0200",
+      "minecraft:vindicator": "2025-08-31 17:12:22 +0200",
+      "minecraft:magma_cube": "2025-09-02 17:21:31 +0200",
+      "minecraft:spider": "2025-08-24 19:32:35 +0200",
+      "minecraft:piglin_brute": "2025-09-02 18:58:00 +0200",
+      "minecraft:creeper": "2025-08-24 16:07:33 +0200",
+      "minecraft:evoker": "2025-08-31 17:07:47 +0200",
+      "minecraft:slime": "2025-09-10 18:47:24 +0200",
+      "quark:forgotten": "2025-08-31 17:39:28 +0200",
+      "minecraft:phantom": "2025-08-24 19:33:32 +0200",
+      "minecraft:zombified_piglin": "2025-09-02 18:40:03 +0200",
+      "minecraft:witch": "2025-08-31 20:59:45 +0200",
+      "minecraft:wither_skeleton": "2025-09-02 18:41:55 +0200",
+      "minecraft:husk": "2025-09-03 17:54:13 +0200",
+      "minecraft:cave_spider": "2025-08-24 17:57:32 +0200",
+      "minecraft:piglin": "2025-09-01 17:01:17 +0200",
+      "minecraft:silverfish": "2025-09-03 17:22:38 +0200",
+      "minecraft:enderman": "2025-09-07 20:12:54 +0200",
+      "minecraft:zombie": "2025-08-24 16:10:43 +0200",
+      "quark:foxhound": "2025-09-01 17:02:23 +0200",
+      "minecraft:drowned": "2025-08-24 18:25:51 +0200",
+      "minecraft:zombie_villager": "2025-09-09 18:41:54 +0200"
+    },
+    "done": false
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:creeper": "2025-08-24 16:07:33 +0200"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_leggings": "2025-08-24 16:15:18 +0200"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_boots": "2025-08-24 16:23:59 +0200"
+    },
+    "done": true
+  },
+  "nova_structures:adventure/find_all_illager_structures": {
+    "criteria": {
+      "swamp_village": "2025-09-03 18:18:02 +0200",
+      "pillager_outpost": "2025-09-10 18:42:09 +0200",
+      "illager_camp": "2025-08-24 16:37:05 +0200"
+    },
+    "done": false
+  },
+  "jodek:utility": {
+    "criteria": {
+      "tick": "2025-08-24 16:55:51 +0200"
+    },
+    "done": true
+  },
+  "jodek:root": {
+    "criteria": {
+      "tick": "2025-08-24 16:55:51 +0200"
+    },
+    "done": true
+  },
+  "jodek:sleep": {
+    "criteria": {
+      "tick": "2025-08-24 16:55:51 +0200"
+    },
+    "done": true
+  },
+  "artifacts:amateur_archaeologist": {
+    "criteria": {
+      "find_artifact": "2025-08-24 17:05:13 +0200"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/spell_book_rotten": {
+    "criteria": {
+      "requirement": "2025-08-24 17:05:14 +0200"
+    },
+    "done": true
+  },
+  "artifacts:chest_slayer": {
+    "criteria": {
+      "kill_mimic": "2025-08-24 17:07:01 +0200"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/ink_root": {
+    "criteria": {
+      "requirement": "2025-08-24 17:22:59 +0200"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/rocky_roller": {
+    "criteria": {
+      "killed_by": "2025-08-24 17:57:04 +0200"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-08-24 18:07:13 +0200"
+    },
+    "done": true
+  },
+  "nova_structures:root": {
+    "criteria": {
+      "nova_structures:adventure/find_tavern": "2025-08-24 18:18:45 +0200"
+    },
+    "done": true
+  },
+  "nova_structures:adventure/find_tavern": {
+    "criteria": {
+      "nova_structures:tavern_oak": "2025-08-24 18:18:45 +0200"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-08-24 18:52:07 +0200"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/root": {
+    "criteria": {
+      "inscription_table": "2025-08-24 19:05:49 +0200"
+    },
+    "done": true
+  },
+  "irons_spellbooks:make_inscription_table": {
+    "criteria": {
+      "inscription_table": "2025-08-24 19:05:49 +0200"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/make_inscription_table": {
+    "criteria": {
+      "inscription_table": "2025-08-24 19:05:49 +0200"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-08-31 13:27:01 +0200"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tactical_fishing": {
+    "criteria": {
+      "tropical_fish_bucket": "2025-08-31 16:50:24 +0200"
+    },
+    "done": true
+  },
+  "quark:get_all_blossom_saplings": {
+    "criteria": {
+      "blue": "2025-09-10 18:34:33 +0200",
+      "yellow": "2025-08-31 16:59:55 +0200",
+      "lavender": "2025-09-10 18:40:46 +0200"
+    },
+    "done": false
+  },
+  "quark:crawl_in_hollow_log": {
+    "criteria": {
+      "crawl_in_hollow_log": "2025-08-31 17:02:47 +0200"
+    },
+    "done": true
+  },
+  "minecraft:adventure/ol_betsy": {
+    "criteria": {
+      "shot_crossbow": "2025-08-31 17:05:46 +0200"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-08-31 17:08:44 +0200"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/seagull_steal": {
+    "criteria": {
+      "ex": "2025-08-31 17:21:16 +0200"
+    },
+    "done": true
+  },
+  "quark:get_forgotten_hat": {
+    "criteria": {
+      "get_forgotten_hat": "2025-08-31 17:39:32 +0200"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/root": {
+    "criteria": {
+      "underground_cabin": "2025-08-31 17:43:07 +0200"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/cave_tablet": {
+    "criteria": {
+      "cave_tablet": "2025-08-31 17:43:51 +0200"
+    },
+    "done": true
+  },
+  "minecraft:adventure/totem_of_undying": {
+    "criteria": {
+      "used_totem": "2025-08-31 18:02:38 +0200"
+    },
+    "done": true
+  },
+  "nova_structures:adventure/tavern_quest": {
+    "criteria": {
+      "open_tavern_chest": "2025-08-31 18:08:55 +0200"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/steal_from_wizard": {
+    "criteria": {
+      "anger_wizard": "2025-08-31 18:47:11 +0200"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2025-08-31 18:47:13 +0200"
+    },
+    "done": true
+  },
+  "mowziesmobs:kill_bluff": {
+    "criteria": {
+      "bluff": "2025-08-31 19:37:54 +0200"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/ink_legendary": {
+    "criteria": {
+      "requirement": "2025-08-31 20:24:40 +0200"
+    },
+    "done": true
+  },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2025-09-01 16:51:36 +0200"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-09-01 17:00:41 +0200"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-09-01 17:00:41 +0200"
+    },
+    "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:crimson_forest": "2025-09-01 17:00:43 +0200",
+      "minecraft:nether_wastes": "2025-09-01 17:01:52 +0200",
+      "minecraft:soul_sand_valley": "2025-09-02 17:37:56 +0200",
+      "minecraft:basalt_deltas": "2025-09-02 17:20:12 +0200"
+    },
+    "done": false
+  },
+  "aoa3:completionist/an_unbalanced_diet": {
+    "criteria": {
+      "consume_cooked_charger_shank": "2025-09-01 18:01:32 +0200"
+    },
+    "done": false
+  },
+  "alexsmobs:alexsmobs/crimson_mosquito": {
+    "criteria": {
+      "killed_by": "2025-09-01 18:25:58 +0200"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2025-09-01 18:27:19 +0200"
+    },
+    "done": true
+  },
+  "farmersdelight:main/root": {
+    "criteria": {
+      "seeds": "2025-09-01 19:33:52 +0200"
+    },
+    "done": true
+  },
+  "tombstone:adventure/root": {
+    "criteria": {
+      "auto": "2025-09-01 19:33:53 +0200"
+    },
+    "done": true
+  },
+  "croptopia:root": {
+    "criteria": {
+      "root": "2025-09-01 20:38:00 +0200"
+    },
+    "done": true
+  },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "kelp": "2025-09-07 20:35:52 +0200",
+      "beetroot": "2025-09-09 20:08:14 +0200",
+      "sugar_cane": "2025-09-01 20:51:56 +0200",
+      "potato": "2025-09-01 20:48:12 +0200",
+      "wheat": "2025-09-02 16:56:09 +0200",
+      "carrot": "2025-09-01 20:48:31 +0200"
+    },
+    "done": false
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2025-09-02 16:56:09 +0200"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2025-09-02 17:20:00 +0200"
+    },
+    "done": true
+  },
+  "aoa3:completionist/half_way_there": {
+    "criteria": {
+      "level_50": "2025-09-02 17:25:52 +0200"
+    },
+    "done": true
+  },
+  "nova_structures:nether/find_nether_skeleton": {
+    "criteria": {
+      "minecraft:fortress": "2025-09-02 18:41:32 +0200",
+      "nova_structures:skeleton_camp_crimson": "2025-09-02 17:52:15 +0200"
+    },
+    "done": false
+  },
+  "tombstone:adventure/choose_grave_type": {
+    "criteria": {
+      "coded_trigger": "2025-09-02 18:21:03 +0200"
+    },
+    "done": true
+  },
+  "croptopia:gather_food": {
+    "criteria": {
+      "toast": "2025-09-02 18:26:00 +0200",
+      "calamari": "2025-09-10 18:28:39 +0200",
+      "glowing_calamari": "2025-09-10 18:07:50 +0200"
+    },
+    "done": false
+  },
+  "croptopia:eatcrafted": {
+    "criteria": {
+      "eat_crafted": "2025-09-02 18:39:40 +0200"
+    },
+    "done": true
+  },
+  "tombstone:adventure/find_grave_dust": {
+    "criteria": {
+      "from_undead": "2025-09-02 18:40:10 +0200"
+    },
+    "done": true
+  },
+  "tombstone:adventure/first_knowledge": {
+    "criteria": {
+      "coded_trigger": "2025-09-02 18:40:10 +0200"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2025-09-02 18:41:32 +0200"
+    },
+    "done": true
+  },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2025-09-02 18:41:56 +0200"
+    },
+    "done": true
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2025-09-02 18:45:33 +0200"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_magic_scroll": {
+    "criteria": {
+      "has_magic_scroll": "2025-09-02 18:45:53 +0200"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_magic_tablet": {
+    "criteria": {
+      "has_magic_tablet": "2025-09-02 18:45:54 +0200"
+    },
+    "done": true
+  },
+  "tombstone:adventure/choose_knowledge": {
+    "criteria": {
+      "coded_trigger": "2025-09-02 18:54:32 +0200"
+    },
+    "done": true
+  },
+  "nova_structures:nether/find_piglins": {
+    "criteria": {
+      "nova_structures:piglin_camp": "2025-09-02 18:57:50 +0200"
+    },
+    "done": false
+  },
+  "tombstone:recipes/from_grave_dust": {
+    "criteria": {
+      "has_ingredient": "2025-09-02 19:03:54 +0200"
+    },
+    "done": true
+  },
+  "tombstone:adventure/ashes_and_bones": {
+    "criteria": {
+      "coded_trigger": "2025-09-02 19:03:56 +0200"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/axolotl_in_a_bucket": {
+    "criteria": {
+      "axolotl_bucket": "2025-09-02 19:56:13 +0200"
+    },
+    "done": true
+  },
+  "tombstone:adventure/ambush": {
+    "criteria": {
+      "coded_trigger": "2025-09-02 20:07:32 +0200"
+    },
+    "done": true
+  },
+  "croptopia:knife": {
+    "criteria": {
+      "knife": "2025-09-02 20:12:09 +0200"
+    },
+    "done": true
+  },
+  "farmersdelight:main/craft_knife": {
+    "criteria": {
+      "golden_knife": "2025-09-02 20:12:09 +0200"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/grizzly_bear": {
+    "criteria": {
+      "killed_by": "2025-09-02 20:14:15 +0200"
+    },
+    "done": true
+  },
+  "farmersdelight:main/get_fd_seed": {
+    "criteria": {
+      "tomato_seeds": "2025-09-03 16:30:37 +0200"
+    },
+    "done": true
+  },
+  "tombstone:adventure/fortuitous_militia": {
+    "criteria": {
+      "coded_trigger": "2025-09-03 16:43:45 +0200"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/banana": {
+    "criteria": {
+      "banana": "2025-09-03 16:59:21 +0200"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/emu": {
+    "criteria": {
+      "killed_by": "2025-09-03 17:32:53 +0200"
+    },
+    "done": true
+  },
+  "croptopia:gather_jungle": {
+    "criteria": {
+      "greenonion_seed": "2025-09-03 17:48:48 +0200",
+      "turnip_seed": "2025-09-07 17:03:17 +0200",
+      "rice_seed": "2025-09-10 19:55:36 +0200"
+    },
+    "done": false
+  },
+  "croptopia:gather_all": {
+    "criteria": {
+      "turnip_seed": "2025-09-07 17:03:17 +0200",
+      "celery_seed": "2025-09-11 20:51:32 +0200",
+      "leek_seed": "2025-09-11 20:51:32 +0200",
+      "greenonion_seed": "2025-09-03 17:48:48 +0200",
+      "asparagus_seed": "2025-09-10 18:50:54 +0200",
+      "spinach_seed": "2025-09-07 17:03:17 +0200"
+    },
+    "done": false
+  },
+  "nova_structures:adventure/find_swamp_village": {
+    "criteria": {
+      "minecraft:village_swamp": "2025-09-03 18:18:02 +0200"
+    },
+    "done": true
+  },
+  "tombstone:adventure/bone_crusher": {
+    "criteria": {
+      "coded_trigger": "2025-09-03 18:36:22 +0200"
+    },
+    "done": true
+  },
+  "alexsmobsinteraction:blooded": {
+    "criteria": {
+      "blood": "2025-09-04 17:52:01 +0200"
+    },
+    "done": true
+  },
+  "quark:overlevel_enchant": {
+    "criteria": {
+      "overlevel_enchant": "2025-09-07 16:25:09 +0200"
+    },
+    "done": true
+  },
+  "croptopia:gather_forest": {
+    "criteria": {
+      "spinach_seed": "2025-09-07 17:03:17 +0200",
+      "celery_seed": "2025-09-11 20:51:32 +0200"
+    },
+    "done": false
+  },
+  "croptopia:getseeds": {
+    "criteria": {
+      "has_seeds": "2025-09-07 17:03:17 +0200"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/kangaroo": {
+    "criteria": {
+      "killed": "2025-09-07 20:26:43 +0200"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:cow": "2025-09-08 20:27:45 +0200",
+      "minecraft:pig": "2025-09-09 22:37:42 +0200",
+      "minecraft:sheep": "2025-09-09 22:37:52 +0200",
+      "minecraft:chicken": "2025-09-09 22:37:40 +0200"
+    },
+    "done": false
+  },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2025-09-08 20:27:45 +0200"
+    },
+    "done": true
+  },
+  "farmersdelight:main/place_campfire": {
+    "criteria": {
+      "campfire": "2025-09-10 17:47:00 +0200"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/crocodile": {
+    "criteria": {
+      "killed_by": "2025-09-10 18:27:27 +0200"
+    },
+    "done": true
+  },
+  "tombstone:adventure/village_defender": {
+    "criteria": {
+      "coded_trigger": "2025-09-10 18:30:03 +0200"
+    },
+    "done": true
+  },
+  "nova_structures:adventure/find_pillager_outpost": {
+    "criteria": {
+      "minecraft:pillager_outpost": "2025-09-10 18:42:08 +0200"
+    },
+    "done": true
+  },
+  "tombstone:adventure/funeral_theft": {
+    "criteria": {
+      "coded_trigger": "2025-09-10 18:43:53 +0200"
+    },
+    "done": true
+  },
+  "croptopia:gather_swamp": {
+    "criteria": {
+      "asparagus_seed": "2025-09-10 18:50:54 +0200"
+    },
+    "done": false
+  },
+  "tombstone:adventure/use_home": {
+    "criteria": {
+      "coded_trigger": "2025-09-10 19:31:15 +0200"
+    },
+    "done": true
+  },
+  "tombstone:adventure/use_knowledge": {
+    "criteria": {
+      "coded_trigger": "2025-09-10 20:22:01 +0200"
+    },
+    "done": true
+  },
+  "croptopia:gather_savanna": {
+    "criteria": {
+      "leek_seed": "2025-09-11 20:51:32 +0200"
+    },
+    "done": false
+  },
+  "DataVersion": 3465
+}
