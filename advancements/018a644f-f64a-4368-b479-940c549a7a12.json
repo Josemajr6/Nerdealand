@@ -47,6 +47,7 @@
       "minecraft:ocean": "2025-08-24 19:03:15 +0200",
       "minecraft:old_growth_spruce_taiga": "2025-08-31 19:21:18 +0200",
       "minecraft:windswept_savanna": "2025-08-24 22:36:20 +0200",
+      "minecraft:warm_ocean": "2025-09-13 18:05:11 +0200",
       "minecraft:flower_forest": "2025-08-31 19:14:17 +0200",
       "minecraft:frozen_peaks": "2025-09-12 21:59:23 +0200",
       "minecraft:old_growth_birch_forest": "2025-08-24 18:39:53 +0200",
@@ -738,7 +739,8 @@
       "spinach_seed": "2025-09-12 22:24:09 +0200",
       "blackbean_seed": "2025-09-12 22:14:47 +0200",
       "radish_seed": "2025-09-10 18:41:59 +0200",
-      "celery_seed": "2025-09-12 22:36:18 +0200"
+      "celery_seed": "2025-09-12 22:36:18 +0200",
+      "raspberry_seed": "2025-09-13 17:57:30 +0200"
     },
     "done": false
   },
@@ -790,6 +792,7 @@
       "soybean_seed": "2025-09-10 20:17:46 +0200",
       "celery_seed": "2025-09-12 22:36:18 +0200",
       "broccoli_seed": "2025-09-10 20:17:46 +0200",
+      "raspberry_seed": "2025-09-13 17:57:30 +0200",
       "spinach_seed": "2025-09-12 22:24:09 +0200"
     },
     "done": false
@@ -846,6 +849,18 @@
   "nova_structures:adventure/find_pillager_outpost": {
     "criteria": {
       "minecraft:pillager_outpost": "2025-09-12 21:54:00 +0200"
+    },
+    "done": true
+  },
+  "mowziesmobs:kill_umvuthana_raptor": {
+    "criteria": {
+      "umvuthana_raptor": "2025-09-13 17:41:48 +0200"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/tarantula_hawk": {
+    "criteria": {
+      "killed_by": "2025-09-13 18:15:22 +0200"
     },
     "done": true
   },
