@@ -146,9 +146,11 @@
     "criteria": {
       "minecraft:pillager": "2025-08-23 18:24:57 +0200",
       "minecraft:skeleton": "2025-08-23 17:35:01 +0200",
+      "minecraft:elder_guardian": "2025-09-14 17:27:35 +0200",
       "minecraft:ravager": "2025-08-23 18:11:14 +0200",
       "minecraft:ghast": "2025-09-01 16:23:35 +0200",
       "minecraft:hoglin": "2025-08-26 00:31:43 +0200",
+      "minecraft:guardian": "2025-09-14 17:25:53 +0200",
       "minecraft:vindicator": "2025-08-23 18:03:01 +0200",
       "minecraft:magma_cube": "2025-08-26 15:58:36 +0200",
       "minecraft:spider": "2025-08-23 17:09:42 +0200",
@@ -861,6 +863,24 @@
   "alexsmobs:alexsmobs/tarantula_hawk": {
     "criteria": {
       "killed_by": "2025-09-13 18:15:22 +0200"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/orcas_might": {
+    "criteria": {
+      "all_effects": "2025-09-14 17:21:22 +0200"
+    },
+    "done": true
+  },
+  "farmersdelight:main/use_cutting_board": {
+    "criteria": {
+      "cutting_board": "2025-09-14 17:09:12 +0200"
+    },
+    "done": true
+  },
+  "farmersdelight:main/harvest_straw": {
+    "criteria": {
+      "harvest_straw": "2025-09-14 17:09:12 +0200"
     },
     "done": true
   },

@@ -42,6 +42,7 @@
       "minecraft:mangrove_swamp": "2025-09-03 16:54:04 +0200",
       "minecraft:sparse_jungle": "2025-08-24 00:12:50 +0200",
       "minecraft:river": "2025-08-24 00:03:29 +0200",
+      "minecraft:lukewarm_ocean": "2025-09-14 17:24:56 +0200",
       "minecraft:snowy_plains": "2025-08-31 18:54:13 +0200",
       "minecraft:stony_shore": "2025-08-31 18:16:10 +0200",
       "minecraft:dripstone_caves": "2025-08-24 16:10:23 +0200",
@@ -52,6 +53,7 @@
       "minecraft:cold_ocean": "2025-08-31 18:31:23 +0200",
       "minecraft:forest": "2025-08-23 23:45:58 +0200",
       "minecraft:lush_caves": "2025-08-31 16:35:54 +0200",
+      "minecraft:deep_cold_ocean": "2025-09-14 17:21:19 +0200",
       "minecraft:windswept_forest": "2025-09-03 18:12:41 +0200",
       "minecraft:jungle": "2025-08-24 00:32:21 +0200",
       "minecraft:ocean": "2025-08-31 17:39:15 +0200",
@@ -208,7 +210,8 @@
     "criteria": {
       "swamp_village": "2025-09-03 18:18:02 +0200",
       "pillager_outpost": "2025-09-10 18:42:09 +0200",
-      "illager_camp": "2025-08-24 16:37:05 +0200"
+      "illager_camp": "2025-08-24 16:37:05 +0200",
+      "witch_villa": "2025-09-14 17:37:39 +0200"
     },
     "done": false
   },
@@ -769,6 +772,18 @@
       "leek_seed": "2025-09-11 20:51:32 +0200"
     },
     "done": false
+  },
+  "mowziesmobs:kill_umvuthana_raptor": {
+    "criteria": {
+      "umvuthana_raptor": "2025-09-14 17:09:36 +0200"
+    },
+    "done": true
+  },
+  "nova_structures:adventure/find_witch_villa": {
+    "criteria": {
+      "nova_structures:witch_villa": "2025-09-14 17:37:39 +0200"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }
