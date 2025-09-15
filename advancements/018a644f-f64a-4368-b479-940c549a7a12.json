@@ -866,12 +866,6 @@
     },
     "done": true
   },
-  "alexsmobs:alexsmobs/orcas_might": {
-    "criteria": {
-      "all_effects": "2025-09-14 17:21:22 +0200"
-    },
-    "done": true
-  },
   "farmersdelight:main/use_cutting_board": {
     "criteria": {
       "cutting_board": "2025-09-14 17:09:12 +0200"
@@ -881,6 +875,12 @@
   "farmersdelight:main/harvest_straw": {
     "criteria": {
       "harvest_straw": "2025-09-14 17:09:12 +0200"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/orcas_might": {
+    "criteria": {
+      "all_effects": "2025-09-14 17:21:22 +0200"
     },
     "done": true
   },
