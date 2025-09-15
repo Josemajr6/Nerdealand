@@ -98,6 +98,7 @@
     "criteria": {
       "cooked_porkchop": "2025-08-23 17:11:27 +0200",
       "chicken": "2025-08-26 01:24:49 +0200",
+      "honey_bottle": "2025-09-15 12:44:57 +0200",
       "cooked_mutton": "2025-08-23 16:57:31 +0200",
       "sweet_berries": "2025-08-31 19:24:02 +0200",
       "cooked_beef": "2025-08-24 13:43:54 +0200",
@@ -881,6 +882,12 @@
   "alexsmobs:alexsmobs/orcas_might": {
     "criteria": {
       "all_effects": "2025-09-14 17:21:22 +0200"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/staff_lightning_rod": {
+    "criteria": {
+      "requirement": "2025-09-15 12:42:44 +0200"
     },
     "done": true
   },
