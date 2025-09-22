@@ -104,6 +104,7 @@
       "baked_potato": "2025-08-23 17:44:45 +0200",
       "apple": "2025-08-24 01:07:24 +0200",
       "potato": "2025-09-10 18:30:04 +0200",
+      "cooked_cod": "2025-09-22 16:32:33 +0200",
       "pumpkin_pie": "2025-08-25 13:52:41 +0200",
       "bread": "2025-08-23 17:34:07 +0200",
       "golden_apple": "2025-08-23 17:46:16 +0200",
@@ -145,6 +146,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2025-08-23 18:24:57 +0200",
+      "minecraft:blaze": "2025-09-22 17:07:15 +0200",
       "minecraft:skeleton": "2025-08-23 17:35:01 +0200",
       "minecraft:elder_guardian": "2025-09-14 17:27:35 +0200",
       "minecraft:ravager": "2025-08-23 18:11:14 +0200",
@@ -161,6 +163,7 @@
       "minecraft:phantom": "2025-08-24 23:19:01 +0200",
       "minecraft:zombified_piglin": "2025-08-26 00:21:42 +0200",
       "minecraft:witch": "2025-08-25 15:24:45 +0200",
+      "minecraft:wither_skeleton": "2025-09-22 17:07:06 +0200",
       "minecraft:husk": "2025-08-25 13:03:15 +0200",
       "minecraft:cave_spider": "2025-08-24 17:34:26 +0200",
       "minecraft:piglin": "2025-08-26 00:25:06 +0200",
@@ -791,18 +794,24 @@
   "croptopia:gather_all": {
     "criteria": {
       "blackbean_seed": "2025-09-12 22:14:47 +0200",
+      "saguaro_seed": "2025-09-22 16:43:57 +0200",
       "soybean_seed": "2025-09-10 20:17:46 +0200",
       "celery_seed": "2025-09-12 22:36:18 +0200",
       "broccoli_seed": "2025-09-10 20:17:46 +0200",
+      "barley_seed": "2025-09-22 16:43:57 +0200",
       "raspberry_seed": "2025-09-13 17:57:30 +0200",
-      "spinach_seed": "2025-09-12 22:24:09 +0200"
+      "squash_seed": "2025-09-22 16:43:57 +0200",
+      "spinach_seed": "2025-09-12 22:24:09 +0200",
+      "corn_seed": "2025-09-22 16:43:57 +0200"
     },
     "done": false
   },
   "croptopia:gather_plains": {
     "criteria": {
+      "corn_seed": "2025-09-22 16:43:57 +0200",
       "broccoli_seed": "2025-09-10 20:17:46 +0200",
-      "soybean_seed": "2025-09-10 20:17:46 +0200"
+      "soybean_seed": "2025-09-10 20:17:46 +0200",
+      "barley_seed": "2025-09-22 16:43:57 +0200"
     },
     "done": false
   },
@@ -866,12 +875,6 @@
     },
     "done": true
   },
-  "alexsmobs:alexsmobs/orcas_might": {
-    "criteria": {
-      "all_effects": "2025-09-14 17:21:22 +0200"
-    },
-    "done": true
-  },
   "farmersdelight:main/use_cutting_board": {
     "criteria": {
       "cutting_board": "2025-09-14 17:09:12 +0200"
@@ -881,6 +884,60 @@
   "farmersdelight:main/harvest_straw": {
     "criteria": {
       "harvest_straw": "2025-09-14 17:09:12 +0200"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/orcas_might": {
+    "criteria": {
+      "all_effects": "2025-09-14 17:21:22 +0200"
+    },
+    "done": true
+  },
+  "minecraft:nether/distract_piglin": {
+    "criteria": {
+      "distract_piglin": "2025-09-22 17:01:27 +0200"
+    },
+    "done": true
+  },
+  "tombstone:adventure/almost_unkillable": {
+    "criteria": {
+      "coded_trigger": "2025-09-22 17:09:55 +0200"
+    },
+    "done": true
+  },
+  "alexsmobsinteraction:rearming_kill": {
+    "criteria": {
+      "rearm": "2025-09-22 16:59:02 +0200"
+    },
+    "done": true
+  },
+  "croptopia:gather_savanna": {
+    "criteria": {
+      "squash_seed": "2025-09-22 16:43:57 +0200"
+    },
+    "done": false
+  },
+  "croptopia:gather_desert": {
+    "criteria": {
+      "saguaro_seed": "2025-09-22 16:43:57 +0200"
+    },
+    "done": true
+  },
+  "nova_structures:nether/find_nether_skeleton": {
+    "criteria": {
+      "minecraft:fortress": "2025-09-22 17:06:04 +0200"
+    },
+    "done": false
+  },
+  "alexsmobsinteraction:day_of_judgement": {
+    "criteria": {
+      "judgement": "2025-09-22 16:24:55 +0200"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2025-09-22 17:06:04 +0200"
     },
     "done": true
   },
