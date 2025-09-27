@@ -31,6 +31,7 @@
       "minecraft:mangrove_swamp": "2025-09-12 22:07:24 +0200",
       "minecraft:sparse_jungle": "2025-08-23 23:23:56 +0200",
       "minecraft:river": "2025-08-23 17:58:18 +0200",
+      "minecraft:lukewarm_ocean": "2025-09-15 22:44:48 +0200",
       "minecraft:stony_shore": "2025-08-23 23:29:34 +0200",
       "minecraft:snowy_plains": "2025-08-24 19:06:47 +0200",
       "minecraft:dripstone_caves": "2025-08-23 16:49:37 +0200",
@@ -98,13 +99,18 @@
     "criteria": {
       "cooked_porkchop": "2025-08-23 17:11:27 +0200",
       "chicken": "2025-08-26 01:24:49 +0200",
+      "honey_bottle": "2025-09-15 12:44:57 +0200",
       "cooked_mutton": "2025-08-23 16:57:31 +0200",
       "sweet_berries": "2025-08-31 19:24:02 +0200",
       "cooked_beef": "2025-08-24 13:43:54 +0200",
       "baked_potato": "2025-08-23 17:44:45 +0200",
       "apple": "2025-08-24 01:07:24 +0200",
       "potato": "2025-09-10 18:30:04 +0200",
+<<<<<<< HEAD
       "cooked_cod": "2025-09-22 16:32:33 +0200",
+=======
+      "cooked_cod": "2025-09-15 16:27:04 +0200",
+>>>>>>> 46f6d4ebf7e1fc7bedca5ef48dd20c71f814e64e
       "pumpkin_pie": "2025-08-25 13:52:41 +0200",
       "bread": "2025-08-23 17:34:07 +0200",
       "golden_apple": "2025-08-23 17:46:16 +0200",
@@ -794,7 +800,11 @@
   "croptopia:gather_all": {
     "criteria": {
       "blackbean_seed": "2025-09-12 22:14:47 +0200",
+<<<<<<< HEAD
       "saguaro_seed": "2025-09-22 16:43:57 +0200",
+=======
+      "cucumber_seed": "2025-09-15 22:56:53 +0200",
+>>>>>>> 46f6d4ebf7e1fc7bedca5ef48dd20c71f814e64e
       "soybean_seed": "2025-09-10 20:17:46 +0200",
       "celery_seed": "2025-09-12 22:36:18 +0200",
       "broccoli_seed": "2025-09-10 20:17:46 +0200",
@@ -808,7 +818,11 @@
   },
   "croptopia:gather_plains": {
     "criteria": {
+<<<<<<< HEAD
       "corn_seed": "2025-09-22 16:43:57 +0200",
+=======
+      "cucumber_seed": "2025-09-15 22:56:53 +0200",
+>>>>>>> 46f6d4ebf7e1fc7bedca5ef48dd20c71f814e64e
       "broccoli_seed": "2025-09-10 20:17:46 +0200",
       "soybean_seed": "2025-09-10 20:17:46 +0200",
       "barley_seed": "2025-09-22 16:43:57 +0200"
@@ -893,6 +907,7 @@
     },
     "done": true
   },
+<<<<<<< HEAD
   "minecraft:nether/distract_piglin": {
     "criteria": {
       "distract_piglin": "2025-09-22 17:01:27 +0200"
@@ -938,6 +953,11 @@
   "minecraft:nether/find_fortress": {
     "criteria": {
       "fortress": "2025-09-22 17:06:04 +0200"
+=======
+  "irons_spellbooks:irons_spellbooks/staff_lightning_rod": {
+    "criteria": {
+      "requirement": "2025-09-15 12:42:44 +0200"
+>>>>>>> 46f6d4ebf7e1fc7bedca5ef48dd20c71f814e64e
     },
     "done": true
   },

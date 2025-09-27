@@ -21,6 +21,7 @@
       "minecraft:bamboo_jungle": "2025-08-24 18:16:30 +0200",
       "minecraft:beach": "2025-08-31 16:33:51 +0200",
       "minecraft:dark_forest": "2025-08-31 16:32:51 +0200",
+      "minecraft:mangrove_swamp": "2025-09-27 19:45:41 +0200",
       "minecraft:sparse_jungle": "2025-08-23 16:54:47 +0200",
       "minecraft:river": "2025-08-23 16:59:36 +0200",
       "minecraft:stony_shore": "2025-09-22 16:17:39 +0200",
@@ -30,6 +31,7 @@
       "minecraft:forest": "2025-08-23 16:49:08 +0200",
       "minecraft:lush_caves": "2025-08-31 16:35:42 +0200",
       "minecraft:deep_cold_ocean": "2025-09-22 16:15:47 +0200",
+      "minecraft:desert": "2025-09-27 19:43:51 +0200",
       "minecraft:jungle": "2025-08-24 18:16:58 +0200",
       "minecraft:windswept_savanna": "2025-09-14 18:50:37 +0200",
       "minecraft:flower_forest": "2025-08-31 17:04:38 +0200",
@@ -125,6 +127,7 @@
       "minecraft:vindicator": "2025-08-24 18:23:09 +0200",
       "minecraft:magma_cube": "2025-09-22 17:00:23 +0200",
       "minecraft:spider": "2025-08-23 17:44:21 +0200",
+      "minecraft:piglin_brute": "2025-09-27 18:02:31 +0200",
       "minecraft:creeper": "2025-08-23 17:57:43 +0200",
       "minecraft:evoker": "2025-08-23 18:18:43 +0200",
       "minecraft:slime": "2025-09-14 18:37:09 +0200",
@@ -322,9 +325,10 @@
       "minecraft:crimson_forest": "2025-08-31 15:40:44 +0200",
       "minecraft:nether_wastes": "2025-08-31 15:40:57 +0200",
       "minecraft:soul_sand_valley": "2025-09-22 17:33:28 +0200",
-      "minecraft:basalt_deltas": "2025-09-22 16:59:46 +0200"
+      "minecraft:basalt_deltas": "2025-09-22 16:59:46 +0200",
+      "minecraft:warped_forest": "2025-09-27 17:36:54 +0200"
     },
-    "done": false
+    "done": true
   },
   "alexsmobs:alexsmobs/crimson_mosquito": {
     "criteria": {
@@ -401,7 +405,8 @@
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
       "glow_berries": "2025-09-14 17:04:57 +0200",
-      "sweet_berries": "2025-09-22 16:03:27 +0200"
+      "sweet_berries": "2025-09-22 16:03:27 +0200",
+      "wheat": "2025-09-27 18:50:01 +0200"
     },
     "done": false
   },
@@ -438,6 +443,8 @@
   "croptopia:gather_forest": {
     "criteria": {
       "cauliflower_seed": "2025-09-14 17:32:55 +0200",
+      "strawberry_seed": "2025-09-27 17:50:10 +0200",
+      "tomato_seed": "2025-09-27 17:50:10 +0200",
       "grape_seed": "2025-09-14 18:53:49 +0200"
     },
     "done": false
@@ -445,7 +452,11 @@
   "croptopia:gather_all": {
     "criteria": {
       "cauliflower_seed": "2025-09-14 17:32:55 +0200",
-      "grape_seed": "2025-09-14 18:53:49 +0200"
+      "tomato_seed": "2025-09-27 17:50:10 +0200",
+      "strawberry_seed": "2025-09-27 17:50:10 +0200",
+      "grape_seed": "2025-09-14 18:53:49 +0200",
+      "squash_seed": "2025-09-27 17:50:10 +0200",
+      "currant_seed": "2025-09-27 17:50:10 +0200"
     },
     "done": false
   },
@@ -563,15 +574,39 @@
     },
     "done": false
   },
-  "tombstone:adventure/combine_in_inventory": {
+  "nova_structures:nether/find_nether_skeleton": {
     "criteria": {
-      "coded_trigger": "2025-09-22 17:30:01 +0200"
+      "minecraft:fortress": "2025-09-22 17:05:59 +0200"
+    },
+    "done": false
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2025-09-22 17:05:59 +0200"
     },
     "done": true
   },
-  "alexsmobs:alexsmobs/straddler": {
+  "tombstone:adventure/cancel_ghostly_shape": {
     "criteria": {
-      "killed_by": "2025-09-22 17:23:01 +0200"
+      "coded_trigger": "2025-09-22 17:07:31 +0200"
+    },
+    "done": true
+  },
+  "tombstone:adventure/enchant_grave_key": {
+    "criteria": {
+      "has_upgraded_grave_key": "2025-09-22 17:07:38 +0200"
+    },
+    "done": true
+  },
+  "tombstone:adventure/teleport_to_grave": {
+    "criteria": {
+      "coded_trigger": "2025-09-22 17:08:05 +0200"
+    },
+    "done": true
+  },
+  "tombstone:adventure/discreet_search": {
+    "criteria": {
+      "coded_trigger": "2025-09-22 17:08:06 +0200"
     },
     "done": true
   },
@@ -580,6 +615,12 @@
       "nova_structures:piglin_camp": "2025-09-22 17:22:09 +0200"
     },
     "done": false
+  },
+  "alexsmobs:alexsmobs/straddler": {
+    "criteria": {
+      "killed_by": "2025-09-22 17:23:01 +0200"
+    },
+    "done": true
   },
   "alexsmobsinteraction:rearming_kill": {
     "criteria": {
@@ -593,39 +634,123 @@
     },
     "done": true
   },
-  "tombstone:adventure/teleport_to_grave": {
+  "tombstone:adventure/combine_in_inventory": {
     "criteria": {
-      "coded_trigger": "2025-09-22 17:08:05 +0200"
+      "coded_trigger": "2025-09-22 17:30:01 +0200"
     },
     "done": true
   },
-  "nova_structures:nether/find_nether_skeleton": {
+  "minecraft:nether/obtain_crying_obsidian": {
     "criteria": {
-      "minecraft:fortress": "2025-09-22 17:05:59 +0200"
+      "crying_obsidian": "2025-09-27 17:50:27 +0200"
+    },
+    "done": true
+  },
+  "minecraft:nether/distract_piglin": {
+    "criteria": {
+      "distract_piglin": "2025-09-27 17:49:56 +0200"
+    },
+    "done": true
+  },
+  "aoa3:nether/demonic_visitor": {
+    "criteria": {
+      "enter_structure_nethengeic_pit": "2025-09-27 19:27:13 +0200"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/enderiophage": {
+    "criteria": {
+      "killed_by": "2025-09-27 19:27:39 +0200"
+    },
+    "done": true
+  },
+  "tombstone:adventure/bone_crusher": {
+    "criteria": {
+      "coded_trigger": "2025-09-27 17:38:29 +0200"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/capsid": {
+    "criteria": {
+      "capsid": "2025-09-27 19:28:30 +0200"
+    },
+    "done": true
+  },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2025-09-27 17:29:08 +0200"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:sheep": "2025-09-27 18:50:14 +0200"
     },
     "done": false
   },
-  "tombstone:adventure/cancel_ghostly_shape": {
+  "alexsmobs:alexsmobs/soul_vulture": {
     "criteria": {
-      "coded_trigger": "2025-09-22 17:07:31 +0200"
+      "killed_by": "2025-09-27 17:22:27 +0200"
     },
     "done": true
   },
-  "tombstone:adventure/discreet_search": {
+  "alexsmobsinteraction:blooded": {
     "criteria": {
-      "coded_trigger": "2025-09-22 17:08:06 +0200"
+      "blood": "2025-09-27 17:50:54 +0200"
     },
     "done": true
   },
-  "tombstone:adventure/enchant_grave_key": {
+  "minecraft:nether/obtain_blaze_rod": {
     "criteria": {
-      "has_upgraded_grave_key": "2025-09-22 17:07:38 +0200"
+      "blaze_rod": "2025-09-27 17:26:33 +0200"
     },
     "done": true
   },
-  "minecraft:nether/find_fortress": {
+  "croptopia:gather_savanna": {
     "criteria": {
-      "fortress": "2025-09-22 17:05:59 +0200"
+      "squash_seed": "2025-09-27 17:50:10 +0200"
+    },
+    "done": false
+  },
+  "croptopia:gather_swamp": {
+    "criteria": {
+      "currant_seed": "2025-09-27 17:50:10 +0200"
+    },
+    "done": false
+  },
+  "aoa3:completionist/half_way_there": {
+    "criteria": {
+      "level_50": "2025-09-27 18:06:39 +0200"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2025-09-27 18:00:00 +0200"
+    },
+    "done": true
+  },
+  "tombstone:adventure/chain_death": {
+    "criteria": {
+      "coded_trigger": "2025-09-27 18:01:04 +0200"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_magic_scroll": {
+    "criteria": {
+      "has_magic_scroll": "2025-09-27 17:26:39 +0200"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_magic_tablet": {
+    "criteria": {
+      "has_magic_tablet": "2025-09-27 19:16:18 +0200"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2025-09-27 18:50:14 +0200"
     },
     "done": true
   },
